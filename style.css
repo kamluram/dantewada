@@ -30,6 +30,9 @@ p{
         text-align: center;
         transition: transform 0.5s ease;
     }
+p{
+    color:red;
+}
 
 
     
