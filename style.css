@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/vintage-old-rustic-cutlery-dark_1220-4883.jpg?w=1380&t=st=1708177146~exp=1708177746~hmac=5bf3147b6e70280eded335b0897d4e2363fbab822db4697a9c3dc65ee67a99a5);
+}
+.any{
+   text-align: center;
+   color: white;
+}
+h1{
+    font-size: 80px;
+    
+}
+p{
+    font-size: 20px;
+    color: plum;
+    text-align: left;
+    background-image: url(https://stock.adobe.com/search?k=restaurant+background&asset_id=294263329)
+}
+
+    img{
+        
+        padding-left: 10;
+        height-10px;
+        weight-10px;
+        margin-10;
+        border-radius: 0
+    } 
+    .ter h3{
+        color: white;
+        padding: 10px;
+        text-align: center;
+        transition: transform 0.5s ease;
+    }
+
+
+    
+    
+
+ 
+ 
+
+
+
